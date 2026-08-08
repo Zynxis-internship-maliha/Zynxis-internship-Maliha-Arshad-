@@ -1,23 +1,33 @@
-# 👩‍💻 MALIHA ARSHAD
-
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+JavaScript+%7C+TypeScript+%E2%9A%9B%EF%B8%8F;UI%2FUX+%26+Responsive+Web+Development+%F0%9F%8E%A8;Zynxis+Frontend+Development+Intern+%F0%9F%9A%80;Building+Modern+%26+Interactive+Web+Experiences+%E2%9C%A8" alt="Typing Animation" />
+# 👩‍💻 MALIHA ARSHAD
+
+### 🚀 FRONTEND DEVELOPER
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=850&lines=Frontend+Developer+%F0%9F%92%BB;React+%7C+JavaScript+%7C+TypeScript+%E2%9A%9B%EF%B8%8F;Responsive+Web+Developer+%F0%9F%93%B1;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Zynxis+Frontend+Development+Intern+%F0%9F%9A%80;Building+Modern+%26+Interactive+Web+Experiences+%E2%9C%A8" alt="Maliha Arshad Typing Animation"/>
 
 <br>
 
 <a href="https://github.com/maliha12">
-<img src="https://img.shields.io/badge/GitHub-maliha12-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-maliha12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=maliha12&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+<a href="https://github.com/maliha12?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-Explore-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=maliha12&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ROLE-FRONTEND%20DEVELOPER-00C2FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/INTERNSHIP-ZYNXIS-7B61FF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/DURATION-8%20WEEKS-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-success?style=for-the-badge"/>
+![Frontend Developer](https://img.shields.io/badge/ROLE-FRONTEND%20DEVELOPER-00C2FF?style=for-the-badge)
+![Zynxis Internship](https://img.shields.io/badge/ZYNXIS-INTERNSHIP-7B61FF?style=for-the-badge)
+![8 Weeks](https://img.shields.io/badge/DURATION-8%20WEEKS-success?style=for-the-badge)
+![Completed](https://img.shields.io/badge/STATUS-COMPLETED-success?style=for-the-badge)
+
+<br><br>
+
+> **"Turning ideas into responsive, interactive and meaningful digital experiences."**
 
 </div>
 
@@ -25,90 +35,115 @@
 
 # 🌟 ZYNXIS FRONTEND DEVELOPMENT INTERNSHIP
 
-Welcome to the official repository of **Maliha Arshad's Zynxis Frontend Development Internship**.
+Welcome to the official GitHub repository of **Maliha Arshad's Zynxis Frontend Development Internship**.
 
-This repository contains the complete **8-week frontend development journey**, including weekly tasks, practical implementations, reusable components, interactive applications, API integration, state management, performance optimization, and the final dashboard project.
+This repository documents an **8-week practical frontend development journey**, progressing from responsive layouts and reusable components to API integration, state management, performance optimization, and a complete final dashboard application.
 
-The internship focused on transforming frontend development concepts into practical, real-world applications using modern web technologies.
+The goal of this internship was to transform frontend concepts into **real-world development skills** through practical implementation, problem solving, UI development and modern web technologies.
 
-> 💡 **Learn → Build → Test → Optimize → Deploy**
+### 🚀 Development Journey
+
+```text
+LEARN
+  ↓
+BUILD
+  ↓
+INTERACT
+  ↓
+INTEGRATE
+  ↓
+MANAGE
+  ↓
+OPTIMIZE
+  ↓
+CREATE
+  ↓
+DEPLOY
+```
 
 ---
 
 # 👩‍💻 DEVELOPER PROFILE
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-| 👤 Profile         | 💼 Professional Information            |
-| ------------------ | -------------------------------------- |
-| **Name**           | Maliha Arshad                          |
-| **GitHub**         | `maliha12`                             |
-| **Role**           | Frontend Developer                     |
-| **Internship**     | Zynxis Frontend Development Internship |
-| **Duration**       | 8 Weeks                                |
-| **Specialization** | Frontend Web Development               |
-| **Focus**          | UI/UX • React • Responsive Design      |
-| **Repository**     | Zynxis Internship                      |
-| **Status**         | 🟢 Completed                           |
+### 👤 Personal Profile
 
-</div>
+**Name:** Maliha Arshad
 
----
+**GitHub:** `maliha12`
 
-# 🚀 ABOUT ME
+**Role:** Frontend Developer
 
-I am a passionate **Frontend Developer** focused on creating modern, responsive, interactive and user-friendly web applications.
+**Internship:** Zynxis Frontend Development Internship
 
-My development approach combines:
+**Duration:** 8 Weeks
 
-```text
-🎨 Beautiful UI
-       +
+**Specialization:** Frontend Development
+
+</td>
+
+<td width="50%">
+
+### 💼 Professional Focus
+
+⚛️ React Development
+🟨 JavaScript
+🔷 TypeScript
+🎨 UI/UX Development
 📱 Responsive Design
-       +
-⚛️ Component Architecture
-       +
 🔌 API Integration
-       +
 📦 State Management
-       +
-⚡ Performance
-       =
-🚀 Modern Web Experience
-```
+⚡ Performance Optimization
 
-I enjoy turning ideas and designs into functional digital experiences while continuously improving my development skills.
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧠 FRONTEND DEVELOPER MINDSET
+# 🧠 ABOUT THE DEVELOPER
+
+I am a passionate **Frontend Developer** interested in building modern, responsive and user-friendly web applications.
+
+My focus is on creating interfaces that are not only visually appealing but also:
+
+* 📱 Responsive
+* ⚡ Fast
+* 🧩 Reusable
+* 🎯 User-friendly
+* 🛠️ Maintainable
+* 🔌 Interactive
+* 🚀 Production-oriented
+
+I enjoy converting ideas into functional interfaces and continuously improving my development skills through practical projects.
+
+---
+
+# 💡 DEVELOPER PHILOSOPHY
 
 ```javascript
-const maliha = {
+const developer = {
     name: "Maliha Arshad",
     username: "maliha12",
     role: "Frontend Developer",
 
-    focus: [
-        "Responsive Web Development",
-        "Modern UI/UX",
-        "React Applications",
-        "Reusable Components",
-        "API Integration",
-        "State Management",
-        "Performance Optimization"
-    ],
+    mission:
+        "Build modern, responsive and user-friendly web experiences.",
 
-    principles: [
+    values: [
         "Clean Code",
-        "Reusable Architecture",
+        "Reusable Components",
         "Responsive Design",
-        "User Experience",
-        "Performance First",
+        "Great User Experience",
+        "Performance",
         "Continuous Learning"
     ],
 
-    currentStatus: "🚀 Building & Learning"
+    mindset:
+        "Learn something new. Build something useful. Improve every day."
 };
 ```
 
@@ -116,58 +151,57 @@ const maliha = {
 
 # 🛠️ TECHNOLOGY STACK
 
-## 🌐 Core Web Technologies
+## 🌐 Core Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="HTML CSS JavaScript TypeScript"/>
 
 </div>
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* Semantic HTML
-* Responsive CSS
-* Modern JavaScript
+| Technology | Purpose                |
+| ---------- | ---------------------- |
+| HTML5      | Semantic web structure |
+| CSS3       | Styling and layouts    |
+| JavaScript | Dynamic functionality  |
+| TypeScript | Type-safe development  |
 
 ---
 
-## ⚛️ Frontend Development
+## ⚛️ Frontend Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,vite" />
+<img src="https://skillicons.dev/icons?i=react,vite" alt="React Vite"/>
 
 </div>
 
-* React
-* React Hooks
-* Component Architecture
-* Props & State
-* Reusable Components
-* Vite
-* Modern Frontend Architecture
+* ⚛️ React
+* 🪝 React Hooks
+* 🧩 Component Architecture
+* 🔄 Dynamic Rendering
+* 📦 Reusable Components
+* ⚡ Vite
+* 🛠️ Modern Frontend Architecture
 
 ---
 
-## 🎨 UI / UX & Styling
+## 🎨 Styling & UI
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=tailwind,css" />
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS"/>
 
 </div>
 
-* Tailwind CSS
-* Responsive Design
-* Mobile-first Development
-* UI Components
-* Animations
-* Transitions
-* Modern Layouts
-* User Experience
+* 🎨 Tailwind CSS
+* 📱 Responsive Design
+* 📐 Flexbox
+* 🔲 CSS Grid
+* ✨ Animations
+* 🌀 Transitions
+* 🧩 UI Components
+* 🌙 Dark / Light Interfaces
 
 ---
 
@@ -177,9 +211,10 @@ const maliha = {
 * Fetch API
 * JSON
 * Async/Await
-* API Error Handling
-* Loading States
-* Dynamic Data Rendering
+* Dynamic data rendering
+* Loading states
+* Error handling
+* API-driven interfaces
 
 ---
 
@@ -187,7 +222,7 @@ const maliha = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm" alt="Git GitHub VS Code npm"/>
 
 </div>
 
@@ -200,20 +235,20 @@ const maliha = {
 
 ---
 
-# 📚 8-WEEK INTERNSHIP JOURNEY
+# 📚 8-WEEK INTERNSHIP ROADMAP
 
 <div align="center">
 
-| Week | Development Area           |    Status    |
-| :--: | -------------------------- | :----------: |
-|  01  | 📱 Responsive Layouts      |  ✅ Completed |
-|  02  | 🧩 Component Library       |  ✅ Completed |
-|  03  | ⚡ Dynamic Interactions     |  ✅ Completed |
-|  04  | 🎨 Styling & Animations    |  ✅ Completed |
-|  05  | 🔌 API Integration         |  ✅ Completed |
-|  06  | 📦 State Management        |  ✅ Completed |
-|  07  | ⚡ Performance Optimization |  ✅ Completed |
-|  08  | 📊 Final Dashboard Project | 🏆 Completed |
+| Week | Module                     | Main Focus                         | Status |
+| :--: | -------------------------- | ---------------------------------- | :----: |
+|  01  | 📱 Responsive Layouts      | Responsive & mobile-first design   |    ✅   |
+|  02  | 🧩 Component Library       | Reusable UI architecture           |    ✅   |
+|  03  | ⚡ Dynamic Interactions     | Interactive frontend functionality |    ✅   |
+|  04  | 🎨 Styling & Animations    | Modern UI & animations             |    ✅   |
+|  05  | 🔌 API Integration         | REST APIs & dynamic data           |    ✅   |
+|  06  | 📦 State Management        | Application state & data flow      |    ✅   |
+|  07  | ⚡ Performance Optimization | Speed & Lighthouse optimization    |    ✅   |
+|  08  | 🏆 Final Dashboard         | Complete frontend application      |    ✅   |
 
 </div>
 
@@ -221,19 +256,34 @@ const maliha = {
 
 # 📱 WEEK 01 — RESPONSIVE LAYOUTS
 
-### 🎯 Focus
+### 🎯 Objective
 
-Building responsive web interfaces that work across different screen sizes.
+Learn how to build interfaces that adapt smoothly to different screen sizes.
 
-### 🔨 Skills Practiced
+### 🔨 Key Concepts
 
-* 📱 Mobile-first design
-* 💻 Desktop layouts
-* 📐 Flexbox
-* 🔲 CSS Grid
-* 🧭 Responsive navigation
-* 📲 Media queries
-* 🖥️ Cross-device compatibility
+* Mobile-first development
+* Responsive layouts
+* CSS Flexbox
+* CSS Grid
+* Media queries
+* Responsive navigation
+* Fluid layouts
+* Cross-device compatibility
+
+### 📱 Target Devices
+
+```text
+📱 Mobile
+      ↓
+📲 Tablet
+      ↓
+💻 Laptop
+      ↓
+🖥️ Desktop
+      ↓
+🖥️ Large Displays
+```
 
 ### ✅ Status
 
@@ -243,20 +293,30 @@ Building responsive web interfaces that work across different screen sizes.
 
 # 🧩 WEEK 02 — COMPONENT LIBRARY
 
-### 🎯 Focus
+### 🎯 Objective
 
-Creating reusable and maintainable frontend components.
+Build reusable and maintainable UI components.
 
-### 🔨 Skills Practiced
+### 🔨 Key Concepts
 
-* Reusable components
-* UI component architecture
+* Component architecture
+* Reusability
+* Component composition
 * Buttons
 * Cards
 * Forms
 * Navigation
-* Component composition
-* Consistent styling
+* UI consistency
+
+### ♻️ Development Principle
+
+```text
+Build Once
+    ↓
+Reuse Everywhere
+    ↓
+Maintain Easily
+```
 
 ### ✅ Status
 
@@ -266,19 +326,33 @@ Creating reusable and maintainable frontend components.
 
 # ⚡ WEEK 03 — DYNAMIC INTERACTIONS
 
-### 🎯 Focus
+### 🎯 Objective
 
-Creating interactive and dynamic frontend applications.
+Transform static interfaces into interactive applications.
 
-### 🔨 Skills Practiced
+### 🔨 Key Concepts
 
 * React Hooks
 * Event handling
 * Dynamic rendering
-* User interactions
-* State-based UI
-* Interactive product interfaces
 * Conditional rendering
+* User interactions
+* State-based interfaces
+* Interactive components
+
+### ⚛️ Focus
+
+```text
+USER ACTION
+     ↓
+EVENT
+     ↓
+STATE UPDATE
+     ↓
+COMPONENT UPDATE
+     ↓
+NEW UI
+```
 
 ### ✅ Status
 
@@ -288,24 +362,24 @@ Creating interactive and dynamic frontend applications.
 
 # 🎨 WEEK 04 — STYLING & ANIMATIONS
 
-### 🎯 Focus
+### 🎯 Objective
 
-Creating modern, attractive and interactive user interfaces.
+Create visually engaging and modern interfaces.
 
-### 🔨 Skills Practiced
+### ✨ Implemented Concepts
 
-* Advanced CSS
+* Modern UI styling
 * Tailwind CSS
-* Animations
-* Transitions
 * Hover effects
-* Interactive UI
+* Transitions
+* Animations
 * Responsive styling
 * Visual hierarchy
+* Interactive elements
 
-### ✨ Goal
+### 🎨 Design Philosophy
 
-Build interfaces that feel modern, smooth and engaging.
+> **Clean + Modern + Responsive + Interactive**
 
 ### ✅ Status
 
@@ -315,35 +389,47 @@ Build interfaces that feel modern, smooth and engaging.
 
 # 🔌 WEEK 05 — API INTEGRATION
 
-### 🎯 Focus
+### 🎯 Objective
 
-Connecting frontend applications with external APIs.
+Connect frontend applications with external data sources.
 
-### 🔨 Skills Practiced
+### 🔨 Key Concepts
 
 * REST APIs
 * Fetch API
-* JSON data
+* JSON
 * Async/Await
 * Loading states
 * Error handling
-* Dynamic data
-* API-driven UI
+* Dynamic rendering
+* API-driven interfaces
 
-### 🔄 Development Flow
+### 🔄 API FLOW
 
 ```text
-Frontend
-   ↓
-API Request
-   ↓
-Server
-   ↓
-JSON Response
-   ↓
-Data Processing
-   ↓
-UI Rendering
+┌──────────────┐
+│   FRONTEND   │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│  API REQUEST │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    SERVER    │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ JSON RESPONSE│
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│      UI      │
+└──────────────┘
 ```
 
 ### ✅ Status
@@ -354,19 +440,33 @@ UI Rendering
 
 # 📦 WEEK 06 — STATE MANAGEMENT
 
-### 🎯 Focus
+### 🎯 Objective
 
-Managing application state and data flow efficiently.
+Understand and manage application data efficiently.
 
-### 🔨 Skills Practiced
+### 🔨 Key Concepts
 
 * Application state
 * Component state
-* State synchronization
 * Data flow
-* Persistent state
+* State synchronization
+* Persistent data
 * Component communication
-* State-based rendering
+* Dynamic UI updates
+
+### 🧠 State Flow
+
+```text
+USER ACTION
+     ↓
+STATE CHANGE
+     ↓
+DATA UPDATE
+     ↓
+COMPONENT RENDER
+     ↓
+UPDATED INTERFACE
+```
 
 ### ✅ Status
 
@@ -376,29 +476,34 @@ Managing application state and data flow efficiently.
 
 # ⚡ WEEK 07 — PERFORMANCE OPTIMIZATION
 
-### 🎯 Focus
+### 🎯 Objective
 
-Making frontend applications faster and more efficient.
+Build fast, efficient and optimized web applications.
 
-### 🔨 Optimization Techniques
+### 🚀 Optimization Techniques
 
-* 🖼️ Image optimization
 * 💤 Lazy loading
+* 🖼️ Image optimization
 * 📦 Component optimization
-* ⚡ Faster rendering
+* ⚡ Efficient rendering
 * 🧹 Code optimization
-* 📱 Mobile optimization
+* 📱 Mobile performance
 * 🔍 Lighthouse auditing
 * 📊 Performance analysis
 
-### 🏆 Performance Goal
+### 🏆 Performance Target
 
 ```text
-Lighthouse Performance
-        ↓
-      90+
-        ↓
-⚡ Fast • Responsive • Optimized
+┌────────────────────────────┐
+│      LIGHTHOUSE AUDIT      │
+├────────────────────────────┤
+│                            │
+│   ⚡ PERFORMANCE → 90+     │
+│   ♿ ACCESSIBILITY → HIGH   │
+│   🔍 SEO → HIGH            │
+│   ✅ BEST PRACTICES → HIGH │
+│                            │
+└────────────────────────────┘
 ```
 
 ### ✅ Status
@@ -411,59 +516,106 @@ Lighthouse Performance
 
 # 🚀 ZYNXIS CLIENT DASHBOARD
 
-The final internship project brings together the knowledge and skills developed throughout the previous seven weeks.
+The final project combines the knowledge and practical experience gained throughout the internship into one complete frontend application.
 
-The project is a modern **SaaS-style client management dashboard** designed with a professional frontend architecture and responsive user experience.
+## 🎯 Project Objective
+
+Build a professional **SaaS-style Client Management Dashboard** with a modern interface, responsive design, interactive functionality and complete CRUD workflows.
 
 ---
 
-## ✨ FINAL PROJECT FEATURES
+# ✨ FINAL PROJECT FEATURES
 
-### 📊 Dashboard
+## 📊 Dashboard
 
-* Dashboard overview
-* Statistics
-* Data visualization
-* Activity information
-* Professional layout
+* 📈 Dashboard statistics
+* 📊 Data visualization
+* 📋 Activity information
+* 📌 Summary cards
+* 🎯 Professional dashboard layout
 
-### 👥 Client Management
+---
 
-* ➕ Add clients
-* 👁️ View clients
-* ✏️ Edit clients
-* 🗑️ Delete clients
-* 🔍 Search clients
-* 🎯 Filter clients
+## 👥 Client Management
 
-### 🎨 UI / UX
+```text
+➕ CREATE
+   ↓
+👁️ READ
+   ↓
+✏️ UPDATE
+   ↓
+🗑️ DELETE
+```
 
-* 🌙 Dark mode
-* ☀️ Light mode
-* 📱 Fully responsive
-* ✨ Smooth animations
-* 🧩 Reusable components
-* 🔔 Notifications
-* 🎨 Modern interface
+Features include:
 
-### 📦 Data Management
-
-* Persistent state
-* CRUD functionality
-* Form handling
-* Validation
+* Add clients
+* View client information
+* Edit client information
+* Delete clients
+* Search clients
+* Filter clients
 * Dynamic updates
 
-### ⚡ Performance
+---
 
-* Optimized components
+## 🎨 User Interface
+
+* 🌙 Dark Mode
+* ☀️ Light Mode
+* 📱 Fully Responsive
+* ✨ Smooth Animations
+* 🧩 Reusable Components
+* 🔔 Notifications
+* 🎨 Modern UI
+* 🖱️ Interactive Elements
+
+---
+
+## 📝 Forms
+
+* Form validation
+* Input handling
+* Error states
+* User feedback
+* Dynamic forms
+* Clean form UX
+
+---
+
+## ⚡ Performance
+
+* Optimized rendering
 * Responsive layouts
-* Efficient rendering
-* Performance-focused architecture
+* Efficient component structure
+* Performance-focused implementation
+* Mobile-friendly experience
 
-### 🏆 Status
+---
 
-**FINAL PROJECT COMPLETED**
+# 🏗️ PROJECT ARCHITECTURE
+
+```text
+                    🚀 ZYNXIS DASHBOARD
+                           │
+             ┌─────────────┴─────────────┐
+             │                           │
+        🎨 UI LAYER                 🧠 LOGIC LAYER
+             │                           │
+      ┌──────┼──────┐              ┌─────┼─────┐
+      │      │      │              │     │     │
+   Navbar  Cards  Forms          State  CRUD  Search
+      │      │      │              │     │     │
+      └──────┼──────┘              └─────┼─────┘
+             │                           │
+             └─────────────┬─────────────┘
+                           │
+                     💾 DATA LAYER
+                           │
+                           ▼
+                     📊 DASHBOARD
+```
 
 ---
 
@@ -494,68 +646,62 @@ Zynxis-internship-Maliha-Arshad-
 │   └── Performance Optimization Project
 │
 ├── 📁 Week8_final_Dashboard_Project
-│   └── 🚀 Final Zynxis Dashboard
+│   └── 🚀 Zynxis Client Dashboard
 │
 └── 📄 README.md
 ```
 
 ---
 
-# 💼 FRONTEND DEVELOPMENT SKILLS
+# 💼 FRONTEND DEVELOPER SKILLS
 
 <div align="center">
 
-| Skill                    | Level |
-| ------------------------ | ----- |
-| HTML5                    | ⭐⭐⭐⭐⭐ |
-| CSS3                     | ⭐⭐⭐⭐⭐ |
-| JavaScript               | ⭐⭐⭐⭐⭐ |
-| TypeScript               | ⭐⭐⭐⭐  |
-| React                    | ⭐⭐⭐⭐⭐ |
-| Responsive Design        | ⭐⭐⭐⭐⭐ |
-| UI/UX                    | ⭐⭐⭐⭐⭐ |
-| API Integration          | ⭐⭐⭐⭐  |
-| State Management         | ⭐⭐⭐⭐  |
-| Git & GitHub             | ⭐⭐⭐⭐⭐ |
-| Performance Optimization | ⭐⭐⭐⭐  |
+| 💻 Skill                 | 📊 Proficiency |
+| ------------------------ | :------------: |
+| HTML5                    |      ⭐⭐⭐⭐⭐     |
+| CSS3                     |      ⭐⭐⭐⭐⭐     |
+| JavaScript               |      ⭐⭐⭐⭐⭐     |
+| TypeScript               |      ⭐⭐⭐⭐      |
+| React                    |      ⭐⭐⭐⭐⭐     |
+| Responsive Design        |      ⭐⭐⭐⭐⭐     |
+| UI/UX                    |      ⭐⭐⭐⭐⭐     |
+| API Integration          |      ⭐⭐⭐⭐      |
+| State Management         |      ⭐⭐⭐⭐      |
+| Git & GitHub             |      ⭐⭐⭐⭐⭐     |
+| Performance Optimization |      ⭐⭐⭐⭐      |
 
 </div>
+
+> These ratings represent the technologies and concepts practiced during the internship.
 
 ---
 
 # 🧹 DEVELOPMENT PRINCIPLES
 
-### 01 — Clean Code
+### 🧩 01 — REUSABILITY
 
-Writing readable, maintainable and structured code.
+Create components once and reuse them wherever possible.
 
-### 02 — Reusable Components
+### 📱 02 — RESPONSIVENESS
 
-Building components that can be reused throughout applications.
+Every interface should provide a smooth experience across devices.
 
-### 03 — Responsive First
+### 🎨 03 — USER EXPERIENCE
 
-Ensuring applications work across:
+Design interfaces around clarity, accessibility and ease of use.
 
-```text
-📱 Mobile
-📲 Tablet
-💻 Laptop
-🖥️ Desktop
-🖥️ Large Displays
-```
+### ⚡ 04 — PERFORMANCE
 
-### 04 — Performance First
+Optimize applications for speed and efficient rendering.
 
-Building fast and optimized experiences.
+### 🧹 05 — CLEAN CODE
 
-### 05 — User Experience
+Write organized, readable and maintainable code.
 
-Creating simple, intuitive and accessible interfaces.
+### 🔄 06 — CONTINUOUS IMPROVEMENT
 
-### 06 — Continuous Learning
-
-Always improving skills through practical development.
+Build → Test → Learn → Improve.
 
 ---
 
@@ -566,7 +712,7 @@ flowchart LR
     A[💡 Idea] --> B[📝 Planning]
     B --> C[🎨 UI Design]
     C --> D[⚛️ Development]
-    D --> E[🔌 API Integration]
+    D --> E[🔌 API / Data]
     E --> F[🧪 Testing]
     F --> G[🐛 Debugging]
     G --> H[⚡ Optimization]
@@ -576,125 +722,165 @@ flowchart LR
 
 ---
 
-# 🧠 WHAT THIS INTERNSHIP DEVELOPED
-
-Through this 8-week journey, practical experience was gained in:
+# 🧠 SKILLS DEVELOPED DURING THE INTERNSHIP
 
 ```text
-⚛️ React Development
-        ↓
+📱 Responsive Development
+        │
+        ▼
 🧩 Component Architecture
-        ↓
-📱 Responsive Design
-        ↓
-🎨 UI/UX Development
-        ↓
+        │
+        ▼
+⚛️ React Development
+        │
+        ▼
 ⚡ Dynamic Interactions
-        ↓
+        │
+        ▼
+🎨 UI/UX & Animations
+        │
+        ▼
 🔌 API Integration
-        ↓
+        │
+        ▼
 📦 State Management
-        ↓
-✨ Animations
-        ↓
+        │
+        ▼
 ⚡ Performance Optimization
-        ↓
+        │
+        ▼
 🔧 Git & GitHub
-        ↓
-🚀 Production-Oriented Development
+        │
+        ▼
+🏆 Complete Frontend Project
 ```
 
 ---
 
-# 📊 GITHUB STATISTICS
+# 📈 INTERNSHIP PROGRESS
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=maliha12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Maliha GitHub Stats"/>
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=maliha12&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maliha12&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
----
-
-# 🐍 CONTRIBUTION GRAPH
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation"/>
-
-</div>
-
----
-
-# 📈 DEVELOPMENT PROGRESS
 
 ```text
-START
-  │
-  ▼
-📱 Responsive Layouts
-  │
-  ▼
-🧩 Component Development
-  │
-  ▼
-⚡ Dynamic Interactions
-  │
-  ▼
-🎨 Styling & Animations
-  │
-  ▼
-🔌 API Integration
-  │
-  ▼
-📦 State Management
-  │
-  ▼
-⚡ Performance Optimization
-  │
-  ▼
-🏆 FINAL DASHBOARD
-  │
-  ▼
-🚀 FRONTEND DEVELOPER
+WEEK 01  ████████████████████  100%
+WEEK 02  ████████████████████  100%
+WEEK 03  ████████████████████  100%
+WEEK 04  ████████████████████  100%
+WEEK 05  ████████████████████  100%
+WEEK 06  ████████████████████  100%
+WEEK 07  ████████████████████  100%
+WEEK 08  ████████████████████  100%
+
+         🏆 INTERNSHIP COMPLETED
 ```
 
----
-
-# 🎯 PROFESSIONAL OBJECTIVE
-
-> **"To continuously develop modern frontend solutions that combine clean code, beautiful interfaces, responsive layouts, strong performance and excellent user experience."**
+</div>
 
 ---
 
-# 🌟 CURRENT STATUS
+# 🔗 GITHUB PROFILE
+
+<div align="center">
+
+<a href="https://github.com/maliha12">
+
+<img src="https://img.shields.io/badge/👩‍💻%20VISIT%20MALIHA'S%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Visit GitHub"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/maliha12?tab=repositories">
+
+<img src="https://img.shields.io/badge/📂%20VIEW%20ALL%20PROJECTS-00C2FF?style=for-the-badge" alt="View Projects"/>
+
+</a>
+
+</div>
+
+---
+
+# 📊 GITHUB ACTIVITY
 
 <div align="center">
 
 ### 👩‍💻 MALIHA ARSHAD
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=7B61FF&center=true&vCenter=true&width=700&lines=Frontend+Developer;React+Developer;UI%2FUX+Enthusiast;Modern+Web+Developer;Always+Learning+%F0%9F%9A%80" alt="Developer Status"/>
+![GitHub Followers](https://img.shields.io/github/followers/maliha12?style=for-the-badge\&logo=github\&label=FOLLOWERS)
 
-<br><br>
+![Public Repositories](https://img.shields.io/badge/Repositories-9+-0A66C2?style=for-the-badge\&logo=github)
 
-| 🎯 Internship Progress | 🏆 Result    |
-| ---------------------- | ------------ |
-| Week 1                 | ✅ Completed  |
-| Week 2                 | ✅ Completed  |
-| Week 3                 | ✅ Completed  |
-| Week 4                 | ✅ Completed  |
-| Week 5                 | ✅ Completed  |
-| Week 6                 | ✅ Completed  |
-| Week 7                 | ✅ Completed  |
-| Week 8                 | 🏆 Completed |
+![GitHub Profile](https://img.shields.io/badge/GitHub-maliha12-181717?style=for-the-badge\&logo=github)
+
+<br>
+
+**Explore the complete development journey on GitHub.**
+
+</div>
+
+---
+
+# 🎯 PROFESSIONAL OBJECTIVE
+
+> **To become a highly skilled frontend developer capable of designing and developing modern, responsive, accessible and high-performance web applications while continuously learning and adapting to new technologies.**
+
+---
+
+# 🌱 CONTINUOUS LEARNING
+
+The learning journey does not stop after the internship.
+
+### Future Development Areas
+
+```text
+⚛️ Advanced React
+        ↓
+🔷 Advanced TypeScript
+        ↓
+🏗️ Scalable Frontend Architecture
+        ↓
+🧪 Testing
+        ↓
+♿ Accessibility
+        ↓
+⚡ Advanced Performance
+        ↓
+🔐 Web Security
+        ↓
+🚀 Production Applications
+```
+
+---
+
+# 🏅 INTERNSHIP ACHIEVEMENT
+
+<div align="center">
+
+## 🏆 8 WEEKS • 8 MODULES • 1 COMPLETE JOURNEY
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│             🚀 ZYNXIS INTERNSHIP             │
+│                                              │
+│             👩‍💻 MALIHA ARSHAD               │
+│                                              │
+│             FRONTEND DEVELOPER               │
+│                                              │
+│             8 / 8 WEEKS COMPLETED            │
+│                                              │
+│             🧩 COMPONENTS                    │
+│             ⚡ INTERACTIONS                   │
+│             🎨 UI & ANIMATIONS               │
+│             🔌 API INTEGRATION               │
+│             📦 STATE MANAGEMENT              │
+│             ⚡ PERFORMANCE                   │
+│             🏆 FINAL DASHBOARD               │
+│                                              │
+│             ✅ INTERNSHIP COMPLETE           │
+│                                              │
+└──────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -702,26 +888,38 @@ START
 
 # 💙 THANK YOU — ZYNXIS
 
-Special thanks to **Zynxis** for providing the opportunity to learn, build, practice and improve frontend development skills through an intensive 8-week internship journey.
+A special thanks to **Zynxis** for providing the opportunity to learn, practice and develop frontend skills through a structured 8-week internship.
 
-This repository represents the progression from learning individual concepts to building a complete frontend dashboard.
+This repository represents the complete journey from individual frontend concepts to the development of a complete dashboard application.
 
 ---
 
+# 🚀 FINAL MESSAGE
+
 <div align="center">
 
-# 🚀 BUILD • LEARN • CREATE • GROW
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=7B61FF&center=true&vCenter=true&width=750&lines=Learn+%F0%9F%93%9A;Build+%F0%9F%9B%A0%EF%B8%8F;Create+%F0%9F%8E%A8;Optimize+%E2%9A%A1;Improve+%F0%9F%93%88;Keep+Building+%F0%9F%9A%80" alt="Learning Animation"/>
 
-### 👩‍💻 Maliha Arshad
+<br><br>
 
-**Frontend Developer | React Developer | UI/UX Enthusiast**
+### 👩‍💻 MALIHA ARSHAD
+
+**Frontend Developer**
+
+⚛️ React • 🟨 JavaScript • 🔷 TypeScript • 🎨 UI/UX • 📱 Responsive Web
 
 <br>
 
-⭐ **Thanks for visiting this repository!**
+### ⭐ BUILD • LEARN • CREATE • GROW ⭐
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" alt="Footer Animation"/>
+<a href="https://github.com/maliha12">
+<img src="https://img.shields.io/badge/⭐%20EXPLORE%20MY%20GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+</a>
+
+<br><br>
+
+**Thank you for visiting this repository! ❤️**
 
 </div>
